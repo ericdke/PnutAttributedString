@@ -1,6 +1,6 @@
 # PnutAttributedString
 
-How to translate from pnut.io entities to NSAttributedString.
+How to translate from pnut.io entities to NSAttributedString in Swift.
 
 ## Context
 
@@ -30,4 +30,4 @@ This works for most of the cases - still, some complex combinations of emojis ca
 
 ## Thanks
 
-Original idea and code by [Martin R.](http://stackoverflow.com/users/1187415/martin-r).
+Original idea and code by [Martin R](http://stackoverflow.com/users/1187415/martin-r).
